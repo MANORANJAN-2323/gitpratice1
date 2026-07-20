@@ -1,0 +1,3 @@
+GitHub is a cloud-based platform that hosts Git repositories and provides collaboration tools for software development. 
+It allows millions of developers worldwide to store, track, and 
+review code changes while working together on projects ranging from small personal apps to enterprise-level systems.
