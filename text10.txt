@@ -1,1 +1,3 @@
 Branches: Allow developers to safely experiment and work on new features independently without changing the main codebase.
+Pull Requests (PRs): Let team members propose changes, review code quality, 
+and discuss iterations before merging them into the main project.
