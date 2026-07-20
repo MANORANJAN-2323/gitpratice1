@@ -1,2 +1,0 @@
-git- add - commit- save - push 
-git - file - commit changes - file - pull
