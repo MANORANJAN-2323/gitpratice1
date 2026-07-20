@@ -1,0 +1,1 @@
+Branches: Allow developers to safely experiment and work on new features independently without changing the main codebase.
