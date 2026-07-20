@@ -1,0 +1,1 @@
+ is a free, open-source distributed version control system designed to track changes in source code and coordinate work among programmers during software development. It acts like a high-powered "time machine" for your project files, allowing you to save snapshots of your progress, revert to older versions, and collaborate without overwriting anyone else's work. 
